@@ -9,5 +9,5 @@
 
 ---
 # 广告 AquaのBlog
-# `https://aquablog.top`
+# `http://aquablog.top`
 ***
